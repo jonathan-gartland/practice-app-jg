@@ -7,7 +7,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>$(DEVELOPMENT_LANGUAGE)</string>
     <key>CFBundleDisplayName</key>
-    <string>practice-app-jg</string>
+    <string>practiceappjg</string>
     <key>CFBundleExecutable</key>
     <string>$(EXECUTABLE_NAME)</string>
     <key>CFBundleIdentifier</key>
@@ -27,8 +27,8 @@
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>practice-app-jg</string>
-          <string>com.practice-app-jg.development</string>
+          <string>practiceappjg</string>
+          <string>com.practiceappjg.development</string>
         </array>
       </dict>
       <dict>
