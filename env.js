@@ -36,7 +36,7 @@ require('dotenv').config({
 
 const BUNDLE_ID = 'com.practiceappjg'; // ios bundle id
 const PACKAGE = 'com.practiceapp-g'; // android package name
-const NAME = 'practice-app-jg'; // app name
+const NAME = 'practiceappjg'; // app name
 const EXPO_ACCOUNT_OWNER = 'jonathan-gartland'; // expo account owner
 const EAS_PROJECT_ID = '73e36670-9545-4ea9-b2d0-84613c24160b'; // eas project id
 const SCHEME = 'practiceappjg'; // app scheme
