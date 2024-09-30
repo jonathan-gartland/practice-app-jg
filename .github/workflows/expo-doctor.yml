@@ -14,7 +14,7 @@ on:
   push:
     branches:
       - main
-      - master
+      - edits
     paths:
       - 'package.json'
       - 'pnpm-lock.yaml'
@@ -30,7 +30,7 @@ jobs:
 
     steps:
       - name: 📦 Checkout project repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
